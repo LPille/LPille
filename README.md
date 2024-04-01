@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<img align="right" style="maxWidth: 300px" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="coder">
+<img align="right" style="width:200px" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif" alt="coder">
 
 
 - 📫 How to reach me **leon.pille@web.de**
